@@ -1,6 +1,6 @@
 
 /* import another css file  */
 @import "bootstrap.min.css";
-@import "datatables/css/dataTables.bootstrap.min.css";
-@import "datatables/css/dataTables.bootstrap4.min.css";
-@import "toostr/toastr.min.css";
+@import "../datatables/css/dataTables.bootstrap.min.css";
+@import "../datatables/css/dataTables.bootstrap4.min.css";
+@import "../toostr/toastr.min.css";
